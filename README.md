@@ -38,7 +38,7 @@ By default, the Docker will expose port 3000.
 When the repository is cloned on to your machine, you will need to execute the following command in a terminal to spin up a Docker Container of the Hello-Kitty Image.
 
 ```
-docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
+docker-compose -f docker-compose.yml -f docker-compose.dev.yml up -d --build
 ```
 
 ### Using the App
