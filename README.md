@@ -70,7 +70,7 @@ http://localhost:3000/api/v1/cats?type=dog_friendly
 ```
 http://localhost:3000/api/v1/cats?type=stranger_friendly
 ```
-`Getting the top 11 dog stranger friendly cats`
+`Getting the top 11 stranger friendly cats`
 ```
 http://localhost:3000/api/v1/cats?type=stranger_friendly&limit=11
 ```
